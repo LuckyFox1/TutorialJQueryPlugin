@@ -1,0 +1,1 @@
+$(window).defaultPluginName({element: $('#1')});
